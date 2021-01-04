@@ -1,0 +1,138 @@
+.head-container{
+    width:100%;
+    background-color: green;
+    height: 150px;
+    position:fixed;
+    vertical-align:top;
+    padding:0px;
+
+}
+
+form{
+    text-align: right;
+    padding:20px 50px 20px 20px;
+    font-size:20px;
+
+}
+
+.header-left h1{
+    font-family:fantasy ;
+    text-shadow:2px 2px white;
+    padding:30px 30px 30px 50px;
+    float:left;
+    font-size:30px;
+}
+
+
+
+
+.top-wrapper{
+    padding-top:180px;
+    padding-bottom:300px;
+    background-image:url(森.jpg);
+    color:orange;
+    background-size:cover;   
+}
+
+.container{
+    width:1170px;
+    margin:auto;
+}
+
+.container h1 {
+    color:white;
+    font-size: 100px;
+    text-shadow: 10px 10px black;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.contents-wrapper{
+    width:100%;
+    background-color: greenyellow;
+    height: 2000px;
+    
+}
+.contents-wrapper h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+.code-wrapper {
+    background-color: white;
+    width:20%;
+    height: 1500px;
+    display: inline-block;
+    border:solid;
+    margin:40px ;
+    vertical-align:top;
+
+}
+.code-wrapper li{
+    font-size:20px;
+    line-height: 100px;
+}
+
+.main-wrapper{
+     width:50%;
+     background-color: white; 
+     display: inline-block;
+     height: 1500px;
+     margin: 40px;
+     vertical-align:top;
+     border:solid;
+}
+
+.main-wrapper p{
+    font-size:20px;
+    padding-left: 20px;
+}
+
+
+
+
+.kiji-wrapper{
+    background-color:white;
+    width:20%;
+    display: inline-block;
+    margin: 40px;
+    height: 1500px;
+    border:solid;
+    vertical-align:top;
+}
+
+.kiji-wrapper p{
+    font-size:20px;
+    padding-left: 20px;
+}
+
+.footer-container{
+    width:100%;
+    background-color: green;
+    height: 450px;
+    vertical-align:top;
+    
+
+}
+
+.footer-left h1{
+    font-family:fantasy ;
+    text-shadow:2px 2px white;
+    padding:100px 100px 100px 20px;
+    font-size:100px;
+    float:left;
+
+}
+.logo{
+    float:left;
+    width: 300px;
+    margin: 50px;
+}
+
+.footer-right li{
+    font-size: 30px;
+    padding: 40px 100px 40px 40px;
+    list-style: none;
+    text-align: right;
+}
